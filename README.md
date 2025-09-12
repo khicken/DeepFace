@@ -6,12 +6,12 @@ This is a directory to two software tools used in ["DeepFace: A High-Precision a
 ## [`mediaGUI/`](https://github.com/khicken/mediaGUI)
 Use this tool to preprocess gigabytes of video data, which are used to train our models.
 
-**→ Please see [mediaGUI](https://github.com/khicken/mediaGUI) for installation instructions.**
+**Please see [mediaGUI](https://github.com/khicken/mediaGUI) for installation instructions.**
 
 ## [`sleapGUI`](https://github.com/khicken/sleapGUI)
 Use this tool to automate SLEAP workflows when labeling our data.
 
-**→ Please see [sleapGUI](https://github.com/khicken/sleapGUI) for installation instructions.**
+**Please see [sleapGUI](https://github.com/khicken/sleapGUI) for installation instructions.**
 
 
 ## Usage Demo
