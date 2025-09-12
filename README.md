@@ -1,41 +1,22 @@
-# DeepFace Research Repository
+# DeepFace
 
-This repository contains graphical user interface implementations for behavioral research and analysis. The code is organized into specialized modules based on research methodology and data type.
+This is a directory to two software tools used in ["DeepFace: A High-Precision and Scalable Deep Learning Pipeline for Predicting Large-Scale Brain Activity from Facial Dynamics in Mice"](https://pubmed.ncbi.nlm.nih.gov/40661434/).
 
-## For Journal Reviewers
 
-**Choose the appropriate directory based on your review focus:**
+## [`mediaGUI/`](https://github.com/khicken/mediaGUI)
+Use this tool to preprocess gigabytes of video data, which are used to train our models.
 
-### 🎯 Pose Estimation & Behavioral Analysis → [`sleapGUI/`](./sleapGUI/)
-If you are reviewing research related to:
-- Animal pose estimation
-- Behavioral pattern analysis
-- SLEAP framework implementations
-- Motion tracking studies
-- Kinematic analysis
+**→ Please see [mediaGUI](https://github.com/khicken/mediaGUI) for installation instructions.**
 
-**→ Please see [`sleapGUI/README.md`](./sleapGUI/README.md) for detailed implementation details**
+## [`sleapGUI`](https://github.com/khicken/sleapGUI)
+Use this tool to automate SLEAP workflows when labeling our data.
 
-### 🎬 Media Processing & Preprocessing → [`mediaGUI/`](./mediaGUI/)
-If you are reviewing research related to:
-- Video/audio preprocessing pipelines
-- Multi-modal data integration
-- Media quality enhancement
-- Batch processing workflows
-- Data preparation methodologies
+**→ Please see [sleapGUI](https://github.com/khicken/sleapGUI) for installation instructions.**
 
-**→ Please see [`mediaGUI/README.md`](./mediaGUI/README.md) for detailed implementation details**
 
-## Repository Structure
-```
-DeepFace/
-├── sleapGUI/          # Pose estimation and behavioral analysis tools
-├── mediaGUI/          # Media processing and preprocessing tools
-└── README.md          # This file
-```
+## Usage Demo
+\[kemal the demo/tutorial goes here\]
+
 
 ## Citation
 If you use any components from this repository in your research, please cite the relevant publications associated with each module as specified in their respective README files.
-
-## Contact
-For questions regarding specific implementations, please refer to the documentation in the relevant subdirectory.
