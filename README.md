@@ -9,7 +9,7 @@ Use this tool to preprocess gigabytes of facial video data to a single concatena
 **Please see [mediaGUI](https://github.com/khicken/mediaGUI) for installation instructions.**
 
 ## [`sleapGUI`](https://github.com/khicken/sleapGUI)
-Use this tool to analyze the large scale facial video data using DeepFace's optomized parameters. 
+This tool incorporates the optimized parameter combination specifically identified for large scale facial video analysis, enabling accurate and efficient large-scale orofacial data processing beyond the default SLEAP GUI.
 
 **Please see [sleapGUI](https://github.com/khicken/sleapGUI) for installation instructions.**
 
