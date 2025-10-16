@@ -17,6 +17,8 @@ This tool incorporates the optimized parameter combination specifically identifi
 ## Usage Demo
 \[currently making tutorial video on how to use DeepFace pipeline\]
 
+## Troubleshoot
+If you have a technical question with either [`mediaGUI`](https://github.com/khicken/mediaGUI) or [`sleapGUI`](https://github.com/khicken/sleapGUI), then feel free to request a "New Issue" in the "Issues" section for the respective GUI.
 
 ## Citation
 If you use any components from this repository in your research, please cite the relevant publications associated with each module as specified in their respective README files.
