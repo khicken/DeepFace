@@ -15,7 +15,7 @@ This tool incorporates the optimized parameter combination specifically identifi
 
 
 ## Usage Demo
-\[kemal the demo/tutorial goes here\]
+\[currently making tutorial video on how to use DeepFace pipeline\]
 
 
 ## Citation
