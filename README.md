@@ -16,12 +16,12 @@ This tool incorporates the optimized parameter combination specifically identifi
 
 **Please see [sleapGUI](https://github.com/khicken/sleapGUI) for installation instructions.**
 
+## Usage Demo
+\[currently making tutorial video on how to use DeepFace pipeline\]
+
 ## HPC Code
 Attached here is the SLEAP based command lines that was used to do high performance computing analysis at Cleveland Clinic Lerner Research Institute using its avaliable GPU Type (A100) and Node Number (n = 2). 
 [DeepFace_Mouse_HPC_Script.txt](https://github.com/user-attachments/files/23484367/DeepFace_Mouse_HPC_Script.txt)
-
-## Usage Demo
-\[currently making tutorial video on how to use DeepFace pipeline\]
 
 ## Troubleshoot
 If you have a technical question with either [`mediaGUI`](https://github.com/khicken/mediaGUI) or [`sleapGUI`](https://github.com/khicken/sleapGUI), then feel free to request a "New Issue" in the "Issues" section for the respective GUI.
