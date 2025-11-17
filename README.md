@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/117a0c51-73cd-4746-b103-a9a76d137932
 
 
 ## Usage Demo
-[DeepFace Tutorial Playist]](https://youtu.be/w3Aq-whDUQ0)
+[DeepFace Tutorial Playist](https://youtu.be/w3Aq-whDUQ0)
 
 ## HPC Code
 Attached here is the SLEAP based command lines that was used to do high performance computing analysis at Cleveland Clinic Lerner Research Institute using its avaliable GPU Type (A100) and Node Number (n = 2). 
