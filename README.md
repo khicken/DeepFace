@@ -21,6 +21,9 @@ This tool incorporates the optimized parameter combination specifically identifi
 https://github.com/user-attachments/assets/117a0c51-73cd-4746-b103-a9a76d137932
 
 ## Usage Demo
+Tutorial Videos to Replicate DeepFace Mouse using your data:
+
+
 [DeepFace Mouse Tutorial Playlist](https://youtube.com/playlist?list=PLdt5kwsCtktyiuk0OApIQvmhf9sebUfou&si=Aw92YegW4PX1jOuB)
 
 ## HPC Code
