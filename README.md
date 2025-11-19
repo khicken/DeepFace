@@ -18,11 +18,7 @@ This tool incorporates the optimized parameter combination specifically identifi
 
 ## Comparision Video Between DeepFace Mouse, DeepLabCut (DLC), Facemap Basemodel, and Facemap Refined
 
-
-
 https://github.com/user-attachments/assets/117a0c51-73cd-4746-b103-a9a76d137932
-
-
 
 ## Usage Demo
 [DeepFace Tutorial Playist](https://youtu.be/w3Aq-whDUQ0)
